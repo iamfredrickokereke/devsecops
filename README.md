@@ -1,2 +1,2 @@
 # devsecops
-All things app sec and cloud security
+All things app sec, kubernetes and cloud security
